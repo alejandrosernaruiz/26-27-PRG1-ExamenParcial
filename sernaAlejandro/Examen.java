@@ -3,5 +3,11 @@ publica class Examen.java{
 system.out.println("Examen parcial PRG1")
 Scanner scanner = new Scanner(System.in);
 int scanner = edadAlumno;
+        if(edadAlumno>=18){
+    system.out.println("es mayor de edad");
+}
+else{
+    system.out.println("es menor de edad");
+}
     }
 }
