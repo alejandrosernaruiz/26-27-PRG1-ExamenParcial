@@ -12,5 +12,10 @@ else{
     system.out.println("es menor de edad");
 }
 }
+        while(asignaturas<1&&asignaturas>10){
+    Scanner scanner2 = new scanner(System.int);
+system.out.println("ingrese el numero de asignaturas que cursa el alumno");
+int scanner2= asignaturas;
+}
     }
 }
